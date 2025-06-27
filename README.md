@@ -8,6 +8,7 @@ This GitHub portfolio showcases the projects, dashboards, and learning journey I
 
 Featured Projects
 [Coffee Shop Sales Analysis](projects/project-1-sales-analysis/)
+
 Goal: Analyze coffee shop sales to identify peak hours, product bundles, and trends.  
 Tools: MS Excel, Python, Tableau  
 Highlights:  
