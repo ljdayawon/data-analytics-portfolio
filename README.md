@@ -19,5 +19,5 @@ Certificates
 
 📬 Contact
 - 📧 Email: lancejosephmanalangdayawonwork@gmail.com  
-- 🔗 [LinkedIn](linkedin.com/in/lance-joseph-dayawon-933a93357)  
+- 🔗 [LinkedIn](www.linkedin.com/in/lance-joseph-dayawon-933a93357)  
 - 🌐 [Portfolio Website](https://lancejosephmanalan.wixsite.com/myportfolio)
