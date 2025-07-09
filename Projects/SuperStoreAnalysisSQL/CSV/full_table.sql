@@ -1,0 +1,1 @@
+SELECT * FROM superstore_dataset_clean.orders;
