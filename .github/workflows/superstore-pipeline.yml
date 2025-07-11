@@ -27,4 +27,4 @@ jobs:
       - name: 🚀 Run Superstore Pipeline Script
         env:
           GOOGLE_SHEETS_JSON: ${{ secrets.GOOGLE_SHEETS_JSON }}
-        run: read_form_data_github.py
+        run: Projects/Super_Store_Orders_Pipeline/read_form_data_github.py
